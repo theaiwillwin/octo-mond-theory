@@ -22,7 +22,7 @@ Field composition: 94.7% octonionic (e4-e7), 5.3% quaternionic (e0-e3)
 - `results/` - Output plots and validation data
 
 ## Citation
-If referencing this work: [Zenodo DOI pending]
+If referencing this work: 10.5281/zenodo.18506741
 
 ## Contact
 [theaiwillwin@gmail.com]
