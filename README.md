@@ -1,6 +1,7 @@
 # OCTO-MOND v9: Non-Associative Field Theory
 
-10.5281/zenodo.18506741
+## DOI
+10.5281/zenodo.18506868
 
 **Status:** Pre-print | **Date:** 07.02(feb).2026 | **Author:** Matthew Connelly
 
