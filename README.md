@@ -2,7 +2,7 @@
 
 10.5281/zenodo.18506741
 
-**Status:** Pre-print | **Date:** 07.02(feb).2026 | **Author:** Independent Researcher
+**Status:** Pre-print | **Date:** 07.02(feb).2026 | **Author:** Matthew Connelly
 
 ## The Claim
 Dark matter is not particulate. It is the non-associative stiffness of spacetime described by octonionic field theory.
